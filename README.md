@@ -46,4 +46,4 @@ NEXT_PUBLIC_API_BASE=https://backend-five-chi-29.vercel.app
 - Global map analysis by country
 
 
-##Star this as 5 otherwise u gay.
+⭐ If you like this project, consider giving it a star on GitHub!
